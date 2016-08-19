@@ -9,3 +9,5 @@ It's a bit weird, I can only see this branch in the local file system.
 I am assuming that this will be the file that it updates - expecting visual-studio-branch
 
 This Edit was made online...
+
+When I change to the new branch what happens?
