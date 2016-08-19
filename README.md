@@ -7,3 +7,5 @@ I will learn how to merge this branch later in the tutorial ... I hope!
 I made these changes in Visual Studio
 It's a bit weird, I can only see this branch in the local file system.
 I am assuming that this will be the file that it updates - expecting visual-studio-branch
+
+THis change was made in Visual Studio = On the Original vis stud branch
